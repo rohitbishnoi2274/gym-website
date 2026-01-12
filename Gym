@@ -1,0 +1,94 @@
+<!D<!DOCTYPE html>
+<html>
+<head>
+  <title>POWER GYM</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {margin:0; font-family:Arial; background:#f4f4f4;}
+    header {
+      background:#000;
+      color:white;
+      padding:30px;
+      text-align:center;
+    }
+    section {padding:20px; text-align:center;}
+    .box {
+      background:white;
+      margin:15px;
+      padding:20px;
+      border-radius:8px;
+    }
+    .btn {
+      background:#e60000;
+      color:white;
+      padding:15px 25px;
+      text-decoration:none;
+      border-radius:6px;
+      display:inline-block;
+      margin-top:10px;
+      font-weight:bold;
+    }
+    footer {
+      background:#111;
+      color:white;
+      text-align:center;
+      padding:15px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>POWER GYM</h1>
+  <p>Build Your Body ,
+  Build Your Confidence</p>
+</header>
+
+<section class="box">
+  <h2>Why Join Our Gym?</h2>
+  <p>✔ Certified Trainer<br>
+     ✔ Modern Equipment<br>
+     ✔ Affordable Fees</p>
+</section>
+
+<section class="box">
+  <h2>Our Services</h2>
+  <p>💪 Weight Training<br>
+     🏃 Cardio<br>
+     🧘 Personal Training</p>
+</section>
+
+<section class="box">
+  <h2>Join Today</h2>
+  <p>Call or WhatsApp us now</p>
+  <a class="btn" href="https://wa.me/91XXXXXXXXXX">WhatsApp Now</a>
+</section>
+
+<footer>
+  <p>📍 Jodhpur | Open 6AM – 10PM</p>
+</footer>
+
+</body>
+</html>
+OCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>HTML</title>
+  
+  <!-- HTML -->
+  
+
+  <!-- Custom Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <p>Nothing to see here...</p>
+  <!-- Project -->
+  <script src="main.js"></script>
+</body>
+</html>
